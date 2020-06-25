@@ -12,5 +12,13 @@
 		"ahmad awais",
 		"ahmad",
 		"awais"
-	]
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"repository": "ahmadawais/awais",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	}
 }
