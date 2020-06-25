@@ -1,4 +1,10 @@
 #!/usr/bin/env node
+
+const clearConsole = require('clear-any-console');
+
+// Clears the console.
+clearConsole();
+
 console.log(`
 Ahmad Awais
 
@@ -7,5 +13,4 @@ Award-winning open-source engineer and developer advocate. Author of various ope
 🐦 Twitter: https://twitter.com/MrAhmadAwais
 📖 GitHub:  https://github.com/AhmadAwais
 😎 Blog:    https://AhmadAwais.com
-
 `);
