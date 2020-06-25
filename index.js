@@ -10,7 +10,7 @@ welcome({
 	bgColor: `#FADC00`,
 	color: `#000000`,
 	bold: true,
-	clear: false,
+	clear: true,
 });
 
 console.log(`
