@@ -34,13 +34,3 @@ ${twitterClr(` Twitter `)} ${dim(`https://twitter.com/MrAhmadAwais`)}
 ${githubClr(` GitHub `)}  ${dim(`https://github.com/AhmadAwais`)}
 ${purple(` Blog `)}    ${dim(`https://AhmadAwais.com`)}
 `);
-
-console.log(`
-${sym.success} ${success(` SUCCESS `)} Thank for checking out my CLI.
-
-${sym.info} ${info(` INFO `)} I'm creating a course on NodeCLI.com
-
-${sym.warning} ${warning(` WARNING `)} Please don't copy me. Be yourself.
-
-${sym.error} ${error(` ERROR `)} I'm on vacation. Contact me next week.
-`);
