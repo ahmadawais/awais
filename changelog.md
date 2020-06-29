@@ -159,7 +159,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ## License & Conduct
 
 - MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
-- [Code of Conduct](code-of-conduct.md)
+- [Code of Conduct](../../code-of-conduct.md)
 
 <br>
 
