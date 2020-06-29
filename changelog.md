@@ -32,11 +32,27 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v2.2.2](https://github.com/ahmadawais/awais/compare/v2.2.1...v2.2.2)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 rm lockfile [`c75c0c9`](https://github.com/ahmadawais/awais/commit/c75c0c94ab2812a9770e1ccc605977c4a4212436) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v2.2.1](https://github.com/ahmadawais/awais/compare/v2.2.0...v2.2.1)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Links [`5089e57`](https://github.com/ahmadawais/awais/commit/5089e57a2fb2d567d20897a2d15419d2829e130b) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`7b4d75a`](https://github.com/ahmadawais/awais/commit/7b4d75a5f0f068215a1ffdcd3b6e4426c8405ea1) <br>
 
 <br>
 
@@ -221,5 +237,7 @@ without wasting a 1,000 hours</a> →</p>
 [![Sponsor Awais](https://img.shields.io/badge/-Sponsor%20Awais%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://github.com/AhmadAwais/sponsor/?utm_source=FOSS) [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://NodeCLI.com/?utm_source=FOSS)
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+[![Sponsorhttps://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][sponsor]
 
 [sponsor]: https://github.com/AhmadAwais/sponsor
