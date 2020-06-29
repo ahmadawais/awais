@@ -32,11 +32,27 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v2.4.0](https://github.com/ahmadawais/awais/compare/v2.3.0...v2.4.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Handle the unhandled [`707787a`](https://github.com/ahmadawais/awais/commit/707787a62ce1ce9701047796b0126a3391ffb0e5) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v2.3.0](https://github.com/ahmadawais/awais/compare/v2.2.2...v2.3.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Check Node version [`822ed24`](https://github.com/ahmadawais/awais/commit/822ed243d54671dc921993081c407dac9d7bdbeb) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`d1c45f1`](https://github.com/ahmadawais/awais/commit/d1c45f1a21566b886137ebe910607a3d91f31554) <br>
 
 <br>
 
