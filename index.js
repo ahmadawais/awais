@@ -4,12 +4,15 @@ const welcome = require('cli-welcome');
 const chalk = require('chalk');
 const alert = require('cli-alerts');
 const checkNode = require('cli-check-node');
+const unhandled = require('cli-handle-unhandled');
 
 const dim = chalk.dim;
 const italic = chalk.italic;
 const twitterClr = chalk.hex(`#1da1f2`).bold.inverse;
 const githubClr = chalk.hex(`#6cc644`).bold.inverse;
 const purple = chalk.hex(`#6937FF`).bold.inverse;
+
+unhandled();
 
 welcome({
 	title: `Ahmad Awais`,
