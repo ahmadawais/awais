@@ -2,18 +2,12 @@
 const pkgJSON = require('./package.json');
 const welcome = require('cli-welcome');
 const chalk = require('chalk');
+const alert = require('cli-alerts');
 const dim = chalk.dim;
 const italic = chalk.italic;
 const twitterClr = chalk.hex(`#1da1f2`).bold.inverse;
 const githubClr = chalk.hex(`#6cc644`).bold.inverse;
 const purple = chalk.hex(`#6937FF`).bold.inverse;
-
-// Alerts.
-const sym = require('log-symbols');
-const success = chalk.green.inverse;
-const info = chalk.blue.inverse;
-const warning = chalk.keyword(`orange`).inverse;
-const error = chalk.red.bold.inverse;
 
 welcome({
 	title: `Ahmad Awais`,
@@ -34,3 +28,5 @@ ${twitterClr(` Twitter `)} ${dim(`https://twitter.com/MrAhmadAwais`)}
 ${githubClr(` GitHub `)}  ${dim(`https://github.com/AhmadAwais`)}
 ${purple(` Blog `)}    ${dim(`https://AhmadAwais.com`)}
 `);
+
+alert({ type: 'info', msg: `Check out my NodeCLI.com course.` });
