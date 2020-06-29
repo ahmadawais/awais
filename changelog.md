@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v2.2.1](https://github.com/ahmadawais/awais/compare/v2.2.0...v2.2.1)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Links [`5089e57`](https://github.com/ahmadawais/awais/commit/5089e57a2fb2d567d20897a2d15419d2829e130b) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v2.2.0](https://github.com/ahmadawais/awais/compare/v2.1.0...v2.2.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -39,6 +51,10 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 > 📦 Alerts [`782143c`](https://github.com/ahmadawais/awais/commit/782143c84f1217640db459d8fcf4814a870d0e48) <br>
 > 📦 Alert [`d2bb90f`](https://github.com/ahmadawais/awais/commit/d2bb90f682c154260bb27700b769f91bea404bde) <br>
 > 📦 Remove alerts [`9eca365`](https://github.com/ahmadawais/awais/commit/9eca3655a309b754bdea86300849fd36586257ae) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`6dcedd4`](https://github.com/ahmadawais/awais/commit/6dcedd4674924d44cc5d2cdba438b79a329bffd3) <br>
 
 <br>
 
@@ -159,7 +175,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ## License & Conduct
 
 - MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
-- [Code of Conduct](../../code-of-conduct.md)
+- [Code of Conduct](code-of-conduct.md)
 
 <br>
 
@@ -168,11 +184,11 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ## Connect
 
 <div align="left">
-<p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> TO STAY UP TO DATE ON FREE & OPEN SOURCE SOFTWARE</small></p>
-<p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> TO GET ONE DEV MINUTE DAILY HOT TIPS & TROLLS</small></p>
-<p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&colorA=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> TO TECH TALKS & ONE DEV MINUTE VIDEOS</small></p>
-<p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> MOSTLY LONG FORM TECHNICAL ARTICLES</small></p>
-<p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> WITH THE LINKEDIN PROFILE Y'ALL</small></p>
+<p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> TO STAY UP TO DATE ON FREE & OPEN SOURCE SOFTWARE</small></p>
+<p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> TO GET ONE DEV MINUTE DAILY HOT TIPS & TROLLS</small></p>
+<p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> TO TECH TALKS & ONE DEV MINUTE VIDEOS</small></p>
+<p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> MOSTLY LONG FORM TECHNICAL ARTICLES</small></p>
+<p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> WITH THE LINKEDIN PROFILE Y'ALL</small></p>
 </div>
 
 <br>
