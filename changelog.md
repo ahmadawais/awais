@@ -32,11 +32,31 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v2.8.0](https://github.com/ahmadawais/awais/compare/v2.7.0...v2.8.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Ad [`fa14b91`](https://github.com/ahmadawais/awais/commit/fa14b91dc681bce12a8568ee5682f7f5bc0f45dd) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v2.7.0](https://github.com/ahmadawais/awais/compare/v2.6.0...v2.7.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Arguments [`24a6ae3`](https://github.com/ahmadawais/awais/commit/24a6ae3c5b57ccabd8ad2f5eee7e8beb3c2ee9fc) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`63e1846`](https://github.com/ahmadawais/awais/commit/63e18469b4838b0b53e55de9d235815638ab6071) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 2.7.0 [`8d46378`](https://github.com/ahmadawais/awais/commit/8d46378c4b98db4af0e991f16f912edc2fbdb063) <br>
 
 <br>
 
