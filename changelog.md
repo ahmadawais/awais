@@ -32,11 +32,27 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v4.0.0](https://github.com/ahmadawais/awais/compare/v4.0.0...v4.0.0)
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 NodeCLI [`1dab604`](https://github.com/ahmadawais/awais/commit/1dab604a4699ae31fec76e0cdfcf523333650ee8) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v4.0.0](https://github.com/ahmadawais/awais/compare/v3.3.0...v4.0.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Fetch posts [`ef55c8b`](https://github.com/ahmadawais/awais/commit/ef55c8bd9ac317a4261dc722991fdead98a87fba) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`577b339`](https://github.com/ahmadawais/awais/commit/577b339959d4cd960701f4e43571e3611e7ed135) <br>
 
 <br>
 
@@ -438,6 +454,6 @@ without wasting a 1,000 hours</a> →</p>
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
-[![Sponsorhttps://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][sponsor]
+[![Sponsor](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][sponsor]
 
 [sponsor]: https://github.com/AhmadAwais/sponsor
