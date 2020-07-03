@@ -18,9 +18,13 @@ ${purple(` Blog `)}    ${dim(`https://AhmadAwais.com`)}
 `;
 
 const ad = `Check out my NodeCLI.com course.`;
+const blogName = `AhmadAwais.com`;
+const blog = `Latest posts`;
 
 module.exports = {
 	bio,
 	social,
 	ad,
+	blogName,
+	blog,
 };
