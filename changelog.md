@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v3.3.0](https://github.com/ahmadawais/awais/compare/v3.2.0...v3.3.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Lingo [`5436e94`](https://github.com/ahmadawais/awais/commit/5436e94c90fa0b67b11551c70abed684da4b67b0) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v3.2.0](https://github.com/ahmadawais/awais/compare/v3.1.0...v3.2.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -41,6 +53,10 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 Spinners [`23f174d`](https://github.com/ahmadawais/awais/commit/23f174d71bcd19bd61203f32042cc7519f683356) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`6262ff7`](https://github.com/ahmadawais/awais/commit/6262ff7e9d4509790acbab073294ee2733ddc87c) <br>
 
 <br>
 
