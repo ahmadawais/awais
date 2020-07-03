@@ -32,11 +32,31 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v3.2.0](https://github.com/ahmadawais/awais/compare/v3.1.0...v3.2.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Data fetching [`5dd32b6`](https://github.com/ahmadawais/awais/commit/5dd32b6dd8ed0e96f476e835c361f4142ba45165) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Spinners [`23f174d`](https://github.com/ahmadawais/awais/commit/23f174d71bcd19bd61203f32042cc7519f683356) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v3.1.0](https://github.com/ahmadawais/awais/compare/v3.0.0...v3.1.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 CLI Box [`ef6a26c`](https://github.com/ahmadawais/awais/commit/ef6a26cbd24a72dd69d268f069801adbd829768e) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`2deceaf`](https://github.com/ahmadawais/awais/commit/2deceaf1b11ecfda38c486580f4fbc10c9f9a4f4) <br>
 
 <br>
 
