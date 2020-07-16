@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v4.2.0](https://github.com/ahmadawais/awais/compare/v4.1.0...v4.2.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Deps [`bcea01f`](https://github.com/ahmadawais/awais/commit/bcea01f7c5d1ab66a39a1724b64faea152ceda2b) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v4.1.0](https://github.com/ahmadawais/awais/compare/v4.0.0...v4.1.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -42,6 +54,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 >  📖 Changelog [`87ad922`](https://github.com/ahmadawais/awais/commit/87ad9223ba23778a3b546c57b3aff7a3c511ff19) <br>
 > 📖 NodeCLI [`1dab604`](https://github.com/ahmadawais/awais/commit/1dab604a4699ae31fec76e0cdfcf523333650ee8) <br>
+> 📖 Changelog [`c7c3d8f`](https://github.com/ahmadawais/awais/commit/c7c3d8fb37a69ee4ab4de68d789160f49489b51b) <br>
 
 <br>
 
